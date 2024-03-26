@@ -2,7 +2,7 @@
 
 Name is Kip. I'm based in Sydney, but originally from Newcastle, NSW.
 
-Things I like and use:
+#### Things I like and use:
 
 -> C++
 
@@ -12,7 +12,7 @@ Things I like and use:
 
 -> Neovim
 
-Areas of interest:
+#### Areas of interest:
 
 -> Build Systems
 
