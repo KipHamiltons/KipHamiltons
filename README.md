@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-Name: Kip
+Name is Kip. I'm based in Sydney, but originally from Newcastle, NSW.
 
-Job: Engineer
+Things I like and use:
 
-Mindset: Engineer
+-> C++
+-> Bazel
+-> Python
+-> Neovim
 
-Social Skills: Engineer
+Areas of interest:
+
+-> Build Systems
+-> Compilers
+-> Operating systems
+-> Robotics
+-> ... Software lol
