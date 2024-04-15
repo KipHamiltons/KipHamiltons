@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Name is Kip. I'm based in Sydney, but originally from Newcastle, NSW.
+Name is Kip. I'm based in Sydney, but I'm originally from Newcastle, NSW.
 
 #### Things I like and use:
 
